@@ -1,0 +1,5 @@
+bin
+obj
+.suo
+WebApp\WebApp\WebApp.csproj.user
+WebApp/packages
