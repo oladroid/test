@@ -27,5 +27,11 @@ namespace WebApp.Controllers {
 				Content = "test1"
 			};
 		}
+
+		public ContentResult GetName2() {
+			return new ContentResult {
+				Content = "test2"
+			};
+		}
 	}
 }
